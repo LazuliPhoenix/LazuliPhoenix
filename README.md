@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Phoenix
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ...
-
+-  Helo friend, I’m Diana (Phoenix)
+-  I am a fiction writer turned Full Stack Web Development
+-  On this journey I have learned a lot and widenned my knowledge of HTML, CSS, JavaScript, React to name a few
+-  I'm looking forward to seeing what the future holds and to keep on my life goal of continuous learning and improvement
